@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/project_package_MIKOLAJ_MROZIUK.egg-info/PKG-INFO
+src/project_package_MIKOLAJ_MROZIUK.egg-info/SOURCES.txt
+src/project_package_MIKOLAJ_MROZIUK.egg-info/dependency_links.txt
+src/project_package_MIKOLAJ_MROZIUK.egg-info/top_level.txt

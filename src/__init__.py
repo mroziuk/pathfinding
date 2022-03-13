@@ -1,0 +1,3 @@
+"""
+pathfinding algorithm visualisation module
+"""
